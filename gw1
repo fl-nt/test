@@ -1,1 +1,3 @@
+#gw1
+remote "gw1.ostholstein.freifunk.net" port 10000;
 key "d63097eb426e8f5016957cd5ee184c60a535d001ec498115a828885568ba9e9c";
