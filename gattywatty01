@@ -1,3 +1,1 @@
-remote "www.ostholstein.freifunk.net" port 10000;
-remote "gw5.ostholstein.freifunk.net" port 10000;
 key "ac227a147276358446797e5c0b7945d7451c797900748b812e503d1bfb771360";
