@@ -1,6 +1,7 @@
-# FOH-Joh14300
+#Hostname: FOH-Joh14300
 # MAC-Adresse: 10:fe:ed:3b:28:c0
-# MAC: 10FEEF3B28C0
+# MAC: 10FEEF3B28C0 # deprecated annotation
+#Hardware-Modell: TP-Link TL-WDR4300 v1
 # ehemals FOH-Falkenthal14300 
 # ehemals FOH-Paolo14300 
 # ehemals Seestern-1-wdr4300 
