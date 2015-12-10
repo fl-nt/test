@@ -1,5 +1,6 @@
-#Hostname: FOH-test-WDR4900-1
+#Hostname: FOH-Johan-WDR4900-1
 #MAC-Adresse: c0:4a:00:50:fc:74
 #Hardware-Modell: TP-Link TL-WDR4900 v1
+# ehemals
+#Hostname: FOH-test-WDR4900-1
 key “0771795a3e35a422d9e3cfd4bc8808d9d71acc17dc854c6ea16924fa2fc5e494”;
-
