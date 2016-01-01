@@ -1,4 +1,6 @@
-#FOH-DLRG1PicoM2
+#Hostname: FOH-Test1PicoM2
+#ehemals
+#Hostname: FOH-DLRG1PicoM2
 #MAC-Adresse: 68:72:51:20:b3:d0
 #Hardware-Modell: Ubiquiti Nanostation M
 key "a12200b0ac408a425e49c59b0f03b6fb53a9308f39b24b0d1ecbb47602614364";
