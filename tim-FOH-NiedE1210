@@ -1,6 +1,7 @@
-# Hostname: FOH-NiedE1210
+# Hostname: FOH-SpNiedersachsenCPE210
 # Hardware-Modell: TP-Link CPE210 v1.0
 # MAC-Address: 14:cc:20:47:40:28
 #ehemals
 # FOH-Nied2210
-key "b1fb5e8abd24a01023ba4bbcda2c187a776667eec532d7c076c5ea85d9c97456";
+# : FOH-NiedE1210
+key "6ff31e73175d9b6094394511fa24dd9eed1994e03fed50ae3a3c61445fed000f";
