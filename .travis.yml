@@ -3,3 +3,6 @@ python:
   - "3.5"
 script: 
   - python check_files.py
+notifications:
+  email:
+    - mail-freifunk@sh-dev.de
