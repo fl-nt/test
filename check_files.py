@@ -17,6 +17,8 @@ FAILURE_MESSAGE_WRONG_PORT = "Remote port \"%d\" in file \"%s\":%d port is not v
 
 FAILURE_MESSAGE_UNKNOWN_PATTERN = "Line %d in file \"%s\" has unknown format: %s"
 
+FAILURE_MESSAGE_NO_KEY = "File \"%s\" has no key"
+
 ldh_re = re.compile('^[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?$', re.IGNORECASE)
 
 
@@ -65,10 +67,10 @@ for dir_name, subdir_list, file_list in os.walk(root_dir):
 failures = []
 
 for file_name in files_for_check:
+    has_remote = False
+    has_key = False
+    line_counter = 0
     with open(file_name, "r") as lines:
-        has_remote = False
-        has_key = False
-        line_counter = 0
         for line in lines:
             line_counter += 1
             line = line.strip()
@@ -100,6 +102,9 @@ for file_name in files_for_check:
                     failures.append(FAILURE_MESSAGE_WRONG_PORT % (port, file_name, line_counter))
             else:
                 failures.append(FAILURE_MESSAGE_UNKNOWN_PATTERN % (line_counter, file_name, line))
+
+    if not has_key:
+        failures.append(FAILURE_MESSAGE_NO_KEY % (file_name))
 
 
 print('\n'.join(failures), file=sys.stderr)
