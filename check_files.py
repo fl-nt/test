@@ -48,6 +48,9 @@ excluded_files = [
     "README.md",
     ".git",
     ".idea",# wird nur für die Entwicklung gebraucht
+    # nicht schön aber damit man nicht immer drüber stolpert.
+    "TimEingabe",
+    "zafer-tmp",
 ]
 
 excluded_files = ["./" + f for f in excluded_files]
