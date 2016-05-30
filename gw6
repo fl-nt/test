@@ -1,3 +1,4 @@
 #gw6
 #remote "gw6.ffoh.de" port 11280;
-key "f3fdcd0b05abeae1d55663cfbb8df45f77a51d124e1efe0573cc8cb603043588";
+#key "f3fdcd0b05abeae1d55663cfbb8df45f77a51d124e1efe0573cc8cb603043588";
+key "87693f45362e3b49ba2565f8756f19e0902f831272a5bd66c0566b9ddea6a3c0";
