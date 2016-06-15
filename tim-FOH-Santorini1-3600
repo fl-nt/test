@@ -1,4 +1,4 @@
 # Hostname FOH-Santorini1-3600
 # MAC-Adresse e8:94:f6:c3:fc:ba
-# Hardware-Modell TP-Link TL-WDR3600 v1 Gluon-Version v2016.1.2-3-ga57dd3b Firmware-Release 0.8~exp20160322
-key "976f3338df5a9cbae0b397d351e55817b18d8569900c74261f7bc4443ed299fb";
+# Hardware-Modell TP-Link TL-WDR3600 v1 Gluon-Version v2015.1.2-1-g2a5b705 Firmware-Release 0.8~exp20150818
+key "26c8e0d5694c8bfda8a499af628d33a0c9cd02ce5ca3a77df20f691d03da2c78";
