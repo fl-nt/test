@@ -1,2 +1,8 @@
+# bfo-steffen-1-wdr3500 
 # freifunka0f3c148d868
+# Hardware: WDR3500
+#Hardware:	TP-Link TL-WDR3500 v1
+#Primäre MAC:	a0:f3:c1:48:d8:68
+#IP Adressen: fd73:111:e824:0:a2f3:c1ff:fe48:d868
+#             fe80::a2f3:c1ff:fe48:d868
 key "a93e640ac36ef206d4d592d9f2fd4dff65b7d707cdee3cbdce25d48d55368ebc";
