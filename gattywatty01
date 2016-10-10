@@ -2,5 +2,5 @@
 # Today with Tim
 # formerly
 # Steffen's test machine
-remote gattywatty01.ffoh.de port 11280;
+remote "gattywatty01.ffoh.de" port 11280;
 key "ac227a147276358446797e5c0b7945d7451c797900748b812e503d1bfb771360";
