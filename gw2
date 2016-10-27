@@ -1,3 +1,3 @@
 #gw2
-remote "gw2.ostholstein.freifunk.net" port 10000;
+#remote "gw2.ffoh.de" port 11280;
 key "7047b6cde490ef31a55dc08fb6a05e7b0854ca4181e4f40c7b4757957d7bd249";
