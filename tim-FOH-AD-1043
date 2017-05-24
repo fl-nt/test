@@ -1,2 +1,5 @@
-# FOH-AD-1043
+# Hostname FOH-AD-1043
+# MAC-Adresse 98:de:d0:c1:e1:d2
+# Hardware-Modell TP-Link TL-WR1043N/ND v4
+# Gluon-Version v2016.2.5 Firmware-Release 0.8.9~exp20170411
 key "a4fe89905dadf2441998b01d16dfd36f8f594889ebe1840be832eff2c609efb4";
