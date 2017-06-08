@@ -1,9 +1,7 @@
-#Hostname: FOH-MS38-841
-#MAC-Adresse: e8:94:f6:69:b4:7e
-#Hardware-Modell: TP-Link TL-WR841N/ND v9
-#ehemals
-# FOH-AndreasTest-841 
-# FOH-21M4
+# Hostname: FOH-Nied14-841v9
+# vormals Hostname: FOH-MS38-841
+# vormals FOH-AndreasTest-841 
+# vormals FOH-21M4
+# MAC-Adresse: e8:94:f6:69:b4:7e
+# Hardware-Modell: TP-Link TL-WR841N/ND v9
 key "070de54a48efacca4470739cce99bf6928d07323e74925206ec8c76099b8e3aa";
-# MAC: E894F669B47E
-
