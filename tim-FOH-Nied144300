@@ -1,9 +1,9 @@
-#Hostname: FOH-Nied144300
-# vormals
-# FOH-NiedersachsenKiekUt144300
-#FOH—JES574300
+# Hostname: FOH-Wichtig1-4300v1.7 
+# vormals FOH-Nied144300
+# vormals FOH-NiedersachsenKiekUt144300
+# FOH—JES574300
 # MAC  C04A00FC2354
-#MAC-Adresse: c0:4a:00:fc:23:54
-#Hardware-Modell: TP-Link TL-WDR4300 v1
-#key "19831461e75f291c1877fa38060f6157d4448ff60cd2a4d8b726e29ea3a8aec7";
+# MAC-Adresse: c0:4a:00:fc:23:54
+# Hardware-Modell: TP-Link TL-WDR4300 v1
+# key "19831461e75f291c1877fa38060f6157d4448ff60cd2a4d8b726e29ea3a8aec7";
 key "9e6cbbdccb2db9d6c57838886d81776660301a88f4328dbf37e2078649e18862";
