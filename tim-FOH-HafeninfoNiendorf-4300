@@ -1,8 +1,2 @@
-# Hostname FOH-MobileInkasso-1043v4
-# MAC-Adresse 98:de:d0:c1:d1:dc
-# Hardware-Modell TP-Link TL-WR1043N/ND v4
-# Gluon-Version v2016.2-115-ge7b434ef Firmware-Release 0.8.8~exp20170120
-# was der neue key sein sollte, aber nicht ist
-#key "ff0b6cb32bbbda892fc0484867bfb9c6f4dc8f1dd58b8c023c024d7795b7ed96";
-# was ehemals sein sollte aber nun doch aktuell ist
-key "70931bca962be34f64a8d581a66810c519234332f157374517e8f9cbd2dd1bdb";
+# Hostname: FOH-HafeninfoNiendorf-4300 
+key "8c51cacd2068300cc5d9d20f674c8949d18bb0e3d741fb476ce8a61f5b64d2e3";
